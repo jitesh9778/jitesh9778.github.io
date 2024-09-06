@@ -6,6 +6,10 @@
     --dark: #091E3E;
 }
 
+.responsive {
+    width: 100%;
+    height: auto;
+  }
 
 /*** Spinner ***/
 .spinner {
